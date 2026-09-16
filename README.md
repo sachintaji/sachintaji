@@ -1,150 +1,73 @@
 <div align="center">
 
-# 👋 Hi, I'm Sachin Taji
+<img src="https://raw.githubusercontent.com/sachintaji/sachintaji/main/sachin-cloud-banner.png" width="100%" alt="Sachin Taji - AWS Cloud Engineer"/>
 
-### ☁️ AWS Cloud Engineer | Infrastructure as Code | Linux | DevOps
+<br/>
+
+# 👋 Hello, I'm **Sachin Taji**
+
+### ☁️ AWS Cloud Engineer | Terraform | Linux | DevOps
 
 <p>
-  <b>Designing cloud infrastructure • Automating deployments • Learning continuously</b>
+  <b>Cloud Infrastructure • Infrastructure as Code • Automation • Linux • CI/CD</b>
 </p>
 
-</div>
+<p>
+  <i>Learning by building real infrastructure, troubleshooting real problems, and automating repetitive work.</i>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sachintaji/sachintaji/main/sachin-cloud-banner.png"
-       width="100%"
-       alt="Sachin Taji AWS Cloud Engineer Banner">
-</div>
-
-<br>
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/sachintaji">
-  <img src="https://img.shields.io/badge/GitHub-Sachin%20Taji-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Sachin%20Taji-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-taji-2b1455288/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Taji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sachin%20Taji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sachintaji&label=Profile%20Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sachintaji&label=PROFILE+VIEWS&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+# 🧑‍💻 About Me
 
-I'm focused on building a strong foundation in **AWS Cloud Engineering and DevOps** through practical infrastructure and automation projects.
+I'm building my career toward **AWS Cloud Engineering and DevOps**, with a strong interest in cloud infrastructure, automation, networking, Linux administration, and Infrastructure as Code.
 
-My current focus areas include:
+My learning approach is strongly project-oriented. Instead of only studying individual services, I try to understand how multiple technologies work together to build a complete infrastructure environment.
 
-- ☁️ Designing infrastructure on **AWS**
-- 🏗️ Managing infrastructure with **Terraform**
-- 🐧 Working with **Linux servers and administration**
-- 🔄 Understanding **CI/CD and deployment workflows**
-- 🔐 Learning cloud networking and security
-- 📊 Implementing monitoring using **Amazon CloudWatch**
-- 📦 Practicing application deployment with **Docker**
-- 🔧 Using **Git and GitHub** for version control
+### What I enjoy working with
 
----
+- ☁️ AWS cloud infrastructure
+- 🏗️ Terraform Infrastructure as Code
+- 🌐 VPC networking and cloud architecture
+- 🐧 Linux servers and administration
+- 🔐 IAM and infrastructure security
+- ⚖️ Load Balancing and Auto Scaling
+- 📊 CloudWatch monitoring
+- 🔄 Git and CI/CD workflows
+- 🤖 Infrastructure automation
+- 📦 Docker and container-based deployment
 
-## ☁️ AWS Cloud
-
-I have hands-on practice with AWS infrastructure and understand how different services work together in a cloud environment.
-
-### AWS Services
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-</p>
-
-**EC2** • **VPC** • **IAM** • **S3** • **RDS** • **Route 53** • **CloudWatch** • **Lambda** • **Application Load Balancer** • **Auto Scaling** • **NAT Gateway**
-
-### 🌐 Cloud Infrastructure Concepts
-
-- VPC and subnet architecture
-- Public and private subnets
-- Internet Gateway and NAT Gateway
-- Security Groups
-- Load balancing
-- Auto Scaling
-- DNS with Route 53
-- Database connectivity with RDS
-- Cloud monitoring and alerts
-- High-availability architecture
-
----
-
-## 🏗️ Infrastructure as Code
-
-### Terraform
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="55"/>
-</p>
-
-I use **Terraform** to define and manage cloud infrastructure instead of creating every resource manually.
-
-My practice includes:
-
-- Terraform resources and data sources
-- Variables and outputs
-- Modules
-- VPC infrastructure
-- EC2 and security groups
-- Load Balancers
-- Auto Scaling
-- RDS
-- Terraform state
-- Remote backend
-- Infrastructure planning and deployment
-
----
-
-## 🔧 DevOps Toolkit
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
-
-</p>
-
-| Area | Tools / Technologies |
-|------|----------------------|
-| Cloud | AWS |
-| IaC | Terraform |
-| CI/CD | Jenkins |
-| Containers | Docker |
-| Version Control | Git & GitHub |
-| Operating Systems | Linux, Ubuntu, Amazon Linux |
-| Monitoring | Amazon CloudWatch |
-| Web Servers | Nginx, Apache Tomcat |
-| Database | MySQL / Amazon RDS |
-
----
-
-## 🐧 Linux & System Administration
-
-Linux is an important part of my cloud and DevOps learning.
-
-Some areas I practice regularly:
+### My current career direction
 
 ```text
-File & Directory Management
-User & Group Management
-Permissions & Ownership
-Process Management
-Package Management
-Service Management
-Networking Commands
-Disk & Memory Monitoring
-Log Management
-SSH
-Shell Commands
+                    CLOUD ENGINEERING
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+            AWS        TERRAFORM       LINUX
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                       AUTOMATION
+                           │
+                    ┌──────┴──────┐
+                    │             │
+                  CI/CD        DOCKER
+                    │             │
+                    └──────┬──────┘
+                           │
+                         DEVOPS
