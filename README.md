@@ -159,20 +159,18 @@ Terraform is one of my main tools for practicing Infrastructure as Code. I use T
 
 
 
+<!-- GitHub Statistics -->
 
-# 📈 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachintaji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="./profile/stats.svg" width="48%" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintaji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachintaji&theme=tokyonight&hide_border=true" width="60%" />
+<img src="./profile/top-langs.svg" width="40%" alt="Top Languages">
 
 </div>
+
 # 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
