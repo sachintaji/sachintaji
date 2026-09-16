@@ -54,22 +54,6 @@ I enjoy understanding how cloud services work together to create reliable and sc
 
 I am currently developing my skills in AWS, Terraform, Linux, Jenkins, Docker, Git, and cloud networking.
 
-
-
-### AWS Topics I Practice
-
-| Category | Topics |
-|---|---|
-| Compute | EC2, AMI, EBS, Auto Scaling |
-| Networking | VPC, CIDR, Subnets, Route Tables |
-| Connectivity | IGW, NAT Gateway, Security Groups |
-| Availability | Availability Zones, ALB, Auto Scaling |
-| Storage | S3, EBS |
-| Database | RDS MySQL |
-| Security | IAM, Roles, Policies |
-| DNS | Route 53 |
-| Monitoring | CloudWatch, SNS |
-
 ---
 
 # 🏗️ TERRAFORM — INFRASTRUCTURE AS CODE
@@ -86,20 +70,7 @@ Terraform is one of my main tools for practicing Infrastructure as Code. I use T
 
 
 
-### Scenarios I Practice
 
-| Scenario | Area |
-|---|---|
-| EC2 cannot be reached | Security Groups / Networking |
-| Private instance cannot access the internet | NAT / Route Tables |
-| Application is not reachable | Ports / Services / ALB |
-| RDS connection fails | Networking / Credentials |
-| Terraform resource fails | Configuration / Dependencies |
-| Jenkins pipeline fails | Workspace / Pipeline / Permissions |
-| Docker application is not accessible | Port Mapping / Container |
-| Linux service is down | `systemctl` / Logs |
-| Disk space is full | `df` / `du` / Log Management |
-| DNS is not resolving | Route 53 / DNS |
 
 ---
 
@@ -156,20 +127,6 @@ Terraform is one of my main tools for practicing Infrastructure as Code. I use T
 
 ---
 
-
-
-
-<!-- GitHub Statistics -->
-
-<h2>📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" alt="GitHub Statistics">
-
-<img src="./profile/top-langs.svg" width="40%" alt="Top Languages">
-
-</div>
 
 # 🐍 CONTRIBUTION ACTIVITY
 
